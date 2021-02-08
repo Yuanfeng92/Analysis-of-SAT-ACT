@@ -1,4 +1,4 @@
-# SAT & ACT Analysis
+# Analysis of SAT & ACT 
 
 ## Problem Statement
 Following the release of a new SAT format in 2016, the College Board is keen to drive participation rates for the examination across the country. This study aims to analyze the state participation rates and scores for both the SAT and the ACT examinations in 2017 and 2018, to identify key factors influencing these metrics and provide recommendations on how the College Board can best allocate its funds to further improve the numbers.
@@ -16,17 +16,17 @@ Following the release of a new SAT format in 2016, the College Board is keen to 
 ## Data Dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
-|state|object|SAT/ACT|State Participating in Test| 
-|participation_sat17|float|SAT|Participation Rate of the State for SAT 2017| 
-|mebrw_sat17|int|SAT|Mean Score for Evidence-based Reading and Writing of the State for SAT 2017| 
-|math_sat17|int|SAT|Mean Score for Math of the State for SAT 2017| 
-|total_sat17|int|SAT|Mean Total SAT Score for the State for SAT 2017| 
-|participation_act17|float|ACT|Participation Rate of the State for ACT 2017| 
-|english_act17|float|ACT|Mean Score for English of the State for ACT 2017| 
-|math_act17|float|ACT|Mean Score for Math of the State for ACT 2017| 
-|reading_act17|float|ACT|Mean Score for Reading of the State for ACT 2017| 
-|science_act17|float|ACT|Mean Score for Science of the State for ACT 2017| 
-|composite_act17|float|ACT|Mean Composite Score of the State for ACT 2017| 
+|state|object|SAT/ACT|State Participating in Test|
+|participation_sat17|float|SAT|Participation Rate of the State for SAT 2017|
+|mebrw_sat17|int|SAT|Mean Score for Evidence-based Reading and Writing of the State for SAT 2017|
+|math_sat17|int|SAT|Mean Score for Math of the State for SAT 2017|
+|total_sat17|int|SAT|Mean Total SAT Score for the State for SAT 2017|
+|participation_act17|float|ACT|Participation Rate of the State for ACT 2017|
+|english_act17|float|ACT|Mean Score for English of the State for ACT 2017|
+|math_act17|float|ACT|Mean Score for Math of the State for ACT 2017|
+|reading_act17|float|ACT|Mean Score for Reading of the State for ACT 2017|
+|science_act17|float|ACT|Mean Score for Science of the State for ACT 2017|
+|composite_act17|float|ACT|Mean Composite Score of the State for ACT 2017|
 
 ## Conclusions and Recommendations
 ### Key Takeaways
@@ -51,7 +51,7 @@ From the above analysis, the mean participation rate for states with SAT School 
 
 #### 2. SAT Marketing
 Apart from SAT School Day, the college board could promote the SAT better. After the SAT's revamp in 2016, there are a few key differences between SAT and ACT that may be attractive to draw students to take the SAT:
-1. Eliminated obscure vocabulary words - Instead of testing students on words they will be unlikely to use, the new SAT tests students to define a word based on how they are used in context. 
+1. Eliminated obscure vocabulary words - Instead of testing students on words they will be unlikely to use, the new SAT tests students to define a word based on how they are used in context.
 2. Dropped the penalty for wrong answers - Students do not have to waste time trying to guess answers they are not sure about.
 3. More time to answer for each question - It will be less intensive and taxing on the student.
 ## Sources
@@ -63,4 +63,3 @@ Below are the sources that were referred to in this project:
 - Colorado Mandate SAT: https://www.testive.com/colorado-sat-change-2017/
 - Illinois Mandate SAT: https://www.testive.com/illinois/
 - SAT School Day: https://collegereadiness.collegeboard.org/sat/k12-educators/sat-school-day/about
-# Analysis-of-SAT-ACT
